@@ -9,3 +9,8 @@ installed and started frist ngix on ubuntu
 using sudo cp command copied a duplicate for html file to the server 
 
 can now access my website using http://localhost
+
+#Pushing my project to github
+
+First pulled the changes using git pull command 
+the pushed the folder to github
